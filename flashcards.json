@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Math",
+    "front": "➗ Quadratic Formula",
+    "back": "Solution for a quadratic equation $ax^2+bx+c=0$.$$x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$$"
+  },
+  {
+    "subject": "Math",
+    "front": "➗ Taylor Series (Maclaurin for $e^x$)",
+    "back": "Power-series expansion of $e^x$ about 0.$$e^x=\\sum_{n=0}^{\\infty}\\frac{x^n}{n!}$$"
+  },
+  {
+    "subject": "Math",
+    "front": "➗ Fundamental Theorem of Calculus",
+    "back": "Connects differentiation and integration.$$\\frac{d}{dx}\\int_a^x f(t)\\,dt=f(x)$$"
+  },
+  {
+    "subject": "Math",
+    "front": "➗ Eigenvalues & Characteristic Polynomial",
+    "back": "Eigenvalues λ satisfy the determinant equation.$$\\det(A-\\lambda I)=0$$"
+  },
+  {
+    "subject": "Math",
+    "front": "➗ Divergence Theorem",
+    "back": "Relates flux to divergence.$$\\int_V\\nabla\\cdot\\mathbf{F}\\,dV=\\oint_{\\partial V}\\mathbf{F}\\cdot d\\mathbf{S}$$"
+  },
+  {
+    "subject": "Physics",
+    "front": "🔬 Newton's Second Law",
+    "back": "Force equals mass times acceleration.$$\\mathbf{F}=m\\mathbf{a}$$"
+  },
+  {
+    "subject": "Physics",
+    "front": "🔬 Conservation of Energy",
+    "back": "Total mechanical energy remains constant.$$E=K+U$$"
+  },
+  {
+    "subject": "Physics",
+    "front": "🔬 Schrödinger Equation",
+    "back": "Quantum wave equation.$$-\\frac{\\hbar^2}{2m}\\nabla^2\\psi+V\\psi=E\\psi$$"
+  },
+  {
+    "subject": "Physics",
+    "front": "🔬 Lorentz Force",
+    "back": "Force on a charged particle.$$\\mathbf{F}=q(\\mathbf{E}+\\mathbf{v}\\times\\mathbf{B})$$"
+  },
+  {
+    "subject": "Physics",
+    "front": "🔬 Simple Harmonic Oscillator",
+    "back": "SHO differential equation.$$m\\ddot{x}+kx=0$$"
+  },
+  {
+    "subject": "Chemistry",
+    "front": "⚛️ Ideal Gas Law",
+    "back": "Gas pressure-volume relation.$$PV=nRT$$"
+  },
+  {
+    "subject": "Chemistry",
+    "front": "⚛️ Gibbs Free Energy",
+    "back": "Energy available for work.$$\\Delta G=\\Delta H-T\\Delta S$$"
+  },
+  {
+    "subject": "Chemistry",
+    "front": "⚛️ Arrhenius Equation",
+    "back": "Reaction rate temperature dependence.$$k=Ae^{-E_a/(RT)}$$"
+  },
+  {
+    "subject": "Chemistry",
+    "front": "⚛️ Beer–Lambert Law",
+    "back": "Absorbance relation.$$A=\\varepsilon c\\ell$$"
+  },
+  {
+    "subject": "Chemistry",
+    "front": "⚛️ Henderson–Hasselbalch Equation",
+    "back": "pH of buffer solution.$$\\mathrm{pH}=pK_a+\\log\\frac{[A^-]}{[HA]}$$"
+  },
+  {
+    "subject": "Physics",
+    "front": "relationship between resistances and temperature for metals",
+    "back": "directly proportional "
+  },
+  {
+    "subject": "Physics",
+    "front": "jkhgf",
+    "back": "jkhbvgcf"
+  },
+  {
+    "subject": "",
+    "front": "jhygtfrd",
+    "back": "jkbhvgfcdxsuytr"
+  }
+]
